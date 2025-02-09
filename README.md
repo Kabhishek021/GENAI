@@ -15,8 +15,8 @@ This project is a Retrieval-Augmented Generation (RAG) application that allows u
 File Structure:
 
 .
-├── research_papers/           # Directory containing PDF documents
-├── app.py                     # Main application script
-├── requirements.txt           # Required Python dependencies
-├── .env                       # Environment variables (not included in repo)
-└── README.md                  # Project documentation
+- ├── research_papers/           # Directory containing PDF documents
+- ├── app.py                     # Main application script
+- ├── requirements.txt           # Required Python dependencies
+- ├── .env                       # Environment variables (not included in repo)
+- └── README.md                  # Project documentation
