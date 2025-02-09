@@ -14,7 +14,7 @@ os.environ["LANGCHAIN_TRACKING"] = 'true'
 
 prompt = ChatPromptTemplate.from_messages(
     [
-        ('system', 'You are helpfule assistant .Please response to the useerr question?'),
+        ('system', 'You are helpful assistant .Please response to the useerr question?'),
         ('user',"Question:{question}")
     ]
 )
