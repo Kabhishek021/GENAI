@@ -1,9 +1,9 @@
 # GENAI
 RAG Document Q&A with GROQ and Llama
-Overview
+- Overview
 This project is a Retrieval-Augmented Generation (RAG) application that allows users to query research papers using a Streamlit-based UI. It leverages GROQ's Llama model for answering questions based on retrieved document embeddings.
 
-Features
+*Features
 - Load research papers from a specified directory.
 - Create vector embeddings using FAISS and Ollama/HuggingFace embeddings.
 - Retrieve relevant document chunks based on user queries.
