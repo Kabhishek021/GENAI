@@ -11,3 +11,11 @@ This project is a Retrieval-Augmented Generation (RAG) application that allows u
 - Display retrieved document chunks for reference.
 
 ![image alt](https://github.com/Kabhishek021/GENAI/blob/e6d19cfa87cd3e0a312a9e34ca6773fe2a0d30d8/RAGchatbot/image11.png)
+
+File Structure
+.
+├── research_papers/           # Directory containing PDF documents
+├── app.py                     # Main application script
+├── requirements.txt           # Required Python dependencies
+├── .env                       # Environment variables (not included in repo)
+└── README.md                  # Project documentation
